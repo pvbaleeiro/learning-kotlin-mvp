@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">learning-kotlin-mvp</string>
+    <string name="action_settings">Settings</string>
+</resources>
